@@ -1,6 +1,6 @@
-﻿# Learning Spark - Ejercicios
+﻿# Libro Learning Spark - Ejercicios
 
-Repositorio con los ejercicios del libro "Learning Spark" (2nd Edition).
+Repositorio con los ejercicios del libro "Learning Spark" para la formación.
 
 ## Capítulos Cubiertos
 
