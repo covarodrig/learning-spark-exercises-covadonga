@@ -1,0 +1,27 @@
+﻿# Scala & SBT
+*.class
+*.log
+target/
+project/target/
+project/project/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.metals/
+.bsp/
+
+# Spark
+metastore_db/
+derby.log
+spark-warehouse/
+
+# MacOS
+.DS_Store
+
+# Data temporales
+data/*.csv
+data/*.parquet
+data/*.json
+!data/.gitkeep
